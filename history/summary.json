@@ -4,80 +4,72 @@
     "url": "$API_LISTAS_NEGRAS_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-listas-negra-ss-globalists",
-    "status": "down",
-    "uptime": "1.89%",
-    "uptimeDay": "1.89%",
-    "uptimeWeek": "1.89%",
-    "uptimeMonth": "1.89%",
-    "uptimeYear": "1.89%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Login GLOBALISTS",
     "url": "$API_LOGIN_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-login-globalists",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API S3 CONDOR",
     "url": "$API_S3_CONDOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s3-condor",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   },
   {
     "name": "S3 CONDOR",
     "url": "$S3_CONDOR_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s3-condor",
-    "status": "down",
-    "uptime": "6.30%",
-    "uptimeDay": "6.30%",
-    "uptimeWeek": "6.30%",
-    "uptimeMonth": "6.30%",
-    "uptimeYear": "6.30%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API S3 DRAGGANE",
@@ -96,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 0
+      "2024-01-22": 12
     }
   },
   {
@@ -105,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s3-draggane",
     "status": "down",
-    "uptime": "5.85%",
-    "uptimeDay": "5.85%",
-    "uptimeWeek": "5.85%",
-    "uptimeMonth": "5.85%",
-    "uptimeYear": "5.85%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 0
+      "2024-01-22": 12
     }
   },
   {
@@ -124,19 +116,17 @@
     "url": "$GLOBALISTS_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "globalists",
-    "status": "down",
-    "uptime": "11.50%",
-    "uptimeDay": "11.50%",
-    "uptimeWeek": "11.50%",
-    "uptimeMonth": "11.50%",
-    "uptimeYear": "11.50%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {}
   }
 ]
