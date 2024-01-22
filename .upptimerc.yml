@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.condorbs.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/TheSL18/upptime/blob/39ccd4363db73f099a335bbc90e605907023f26e/assets/logo_group-150x150.png
   name: Status Condor Bussiness Solutions
   introTitle: "**CBS** uptime monitor and status page."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
