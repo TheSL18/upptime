@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="255.71413mm"
+   height="286.1879mm"
+   viewBox="0 0 906.07373 1014.0516"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CONDOR L.svg"
+   inkscape:export-filename="/Users/aespinosa/Downloads/LOGOS/CONDOR.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3958749"
+     inkscape:cx="451.29638"
+     inkscape:cy="520.32915"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3377"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="-3.7"
+     inkscape:window-width="1440"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     borderlayer="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(142.72497,-137.79902)">
+    <g
+       id="g3377"
+       transform="translate(-996.32257,-237.7023)">
+      <g
+         id="g3341"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           d="m 854.1943,375.5012 c 142.9644,3.0923 274.6935,36.1248 394.329,95.84 123.0712,61.4281 233.3255,151.0545 329.8231,265.3234 l -23.2118,19.6415 C 1461.3252,645.221 1354.2915,558.1656 1234.9543,498.6012 1119.1713,440.8092 991.7712,408.8416 853.5976,405.8536 l 0.5967,-30.3524 z"
+           style="fill:#1b1918;fill-rule:evenodd"
+           id="path3357"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 1473.2918,1183.4947 C 1349.785,1111.4221 1250.6299,1018.6216 1174.996,908.3578 1097.1893,794.9293 1044.2718,663.0632 1015.34,516.325 l 29.8266,-5.9117 c 28.1261,142.6501 79.475,270.7053 154.9211,380.6924 73.1983,106.7129 169.0851,196.4817 288.4533,266.1386 l -15.2492,26.2504 z"
+           style="fill:#fdd938;fill-rule:evenodd"
+           id="path3359"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 1759.6714,994.805 c -80.9248,117.8965 -180.7383,209.9886 -296.2453,277.3436 -118.8225,69.2902 -254.2101,112.4077 -402.6732,130.5146 l -3.7113,-30.1795 c 144.3269,-17.6028 275.799,-59.4349 391.0165,-126.623 111.7873,-65.186 208.3378,-154.2405 286.5502,-268.1865 l 25.0631,17.1308 z"
+           style="fill:#9b9d9f;fill-rule:evenodd"
+           id="path3361"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
