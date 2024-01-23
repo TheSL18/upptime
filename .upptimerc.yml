@@ -1,6 +1,7 @@
 # Change these first
 owner: TheSL18 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: TheSL18
 
 sites:
   - name: API Listas Negras Globalists
