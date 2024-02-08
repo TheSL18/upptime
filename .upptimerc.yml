@@ -38,3 +38,68 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+#
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: 🟩 Todos los sistemas funcionan correctamente
+  degradedPerformance: 🟨 Rendimiento degradado
+  completeOutage: 🟥 Falla masiva de los sistemas
+  partialOutage: 🟧 Corte parcial
+  incidentReport: Informe del incidente n.º $NUMBER →
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: 🟩 Activo
+  down: 🟥 Inactivo
+  degraded: 🟨 Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  # footer: Esta página es [código abierto]($REPO), impulsada por [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Límite de tasa excedido
+  rateLimitExceededIntro: Has excedido el número de solicitudes que puedes hacer en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Alternativamente, puedes agregar un token de acceso personal de GitHub para seguir utilizando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite 60 solicitudes por hora a cada dirección IP, las cuales has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puedes esperar otra hora y el límite de tu dirección IP se restaurará. Alternativamente, puedes agregar tu token de acceso personal de GitHub, que te da 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende cómo generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un token de acceso personal configurado.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Se produjo un error
+  errorIntro: Se produjo un error al intentar obtener los detalles del estado más reciente.
+  errorText: Puedes volver a intentarlo en unos minutos.
+  errorHome: Ir a la página principal
+  pastScheduledMaintenance: Mantenimiento programado anterior
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Empezará el $DATE durante $DURATION minutos
+  startedAt: Empezó el
+  startsAt: Empezará el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: todo
