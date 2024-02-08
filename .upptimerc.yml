@@ -27,6 +27,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/TheSL18/upptime/master/assets/condor.svg
   name: Status Condor Bussiness Solutions
   introTitle: "**CBS** uptime monitor and status page."
+  faviconSvg: https://raw.githubusercontent.com/TheSL18/upptime/master/assets/condor.svg
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
