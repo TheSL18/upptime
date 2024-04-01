@@ -40,9 +40,9 @@
     "url": "$API_S3_CONDOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s3-condor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 262,
     "timeMonth": 207,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "S3 Condor",
     "url": "$S3_CONDOR_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s3-condor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 214,
     "timeMonth": 190,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "API S3 Draggane",
@@ -88,7 +92,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-04-01": 51,
+      "2024-04-01": 949,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -178,7 +182,7 @@
     "timeMonth": 90,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-04-01": 51,
+      "2024-04-01": 949,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
