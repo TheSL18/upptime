@@ -1,7 +1,7 @@
 # Change these first
 owner: TheSL18 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-user-agent: TheSL1
+user-agent: TheSL18
 
 sites:
   - name: API Listas Negras Globalists
@@ -18,6 +18,10 @@ sites:
     url: $S3_DRAGGANE_WEB
   - name: Servicios Globalists
     url: $GLOBALISTS_WEB
+  - name: CBSLN
+    url: $CBSLN
+  - name: CBSIP
+    url: $CBSIP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
