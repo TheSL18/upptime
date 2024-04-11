@@ -4,9 +4,9 @@
     "url": "$API_LISTAS_NEGRAS_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-listas-negras-globalists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 181,
     "timeMonth": 184,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "API Login Globalists",
     "url": "$API_LOGIN_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-login-globalists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 185,
     "timeMonth": 184,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "API S3 Condor",
@@ -92,7 +96,7 @@
     "timeMonth": 83,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-04-11": 47,
+      "2024-04-11": 271,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -192,7 +196,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-04-11": 47,
+      "2024-04-11": 271,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -280,9 +284,9 @@
     "url": "$GLOBALISTS_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "servicios-globalists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -291,7 +295,9 @@
     "timeWeek": 207,
     "timeMonth": 254,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "CBSLN",
