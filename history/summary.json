@@ -22,18 +22,20 @@
     "url": "$API_LOGIN_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-login-globalists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 230,
-    "timeWeek": 204,
-    "timeMonth": 202,
-    "timeYear": 203,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 234,
+    "timeWeek": 208,
+    "timeMonth": 203,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2024-05-24": 0
+    }
   },
   {
     "name": "API S3 Condor",
@@ -92,7 +94,7 @@
     "timeMonth": 100,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-05-24": 50,
+      "2024-05-24": 1342,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -235,7 +237,7 @@
     "timeMonth": 99,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-05-24": 50,
+      "2024-05-24": 1342,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
