@@ -95,7 +95,7 @@
     "timeMonth": 101,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-09": 56,
+      "2024-06-09": 1050,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
@@ -254,7 +254,7 @@
     "timeMonth": 85,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-09": 56,
+      "2024-06-09": 1050,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
@@ -439,17 +439,19 @@
     "url": "$CBSIP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbsip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 433,
-    "timeWeek": 605,
-    "timeMonth": 571,
-    "timeYear": 540,
-    "dailyMinutesDown": {}
+    "time": 537,
+    "timeDay": 402,
+    "timeWeek": 571,
+    "timeMonth": 564,
+    "timeYear": 537,
+    "dailyMinutesDown": {
+      "2024-06-09": 0
+    }
   }
 ]
