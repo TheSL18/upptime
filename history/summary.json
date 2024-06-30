@@ -43,9 +43,9 @@
     "url": "$API_S3_CONDOR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s3-condor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -55,6 +55,7 @@
     "timeMonth": 167,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-04-01": 41
     }
   },
@@ -63,9 +64,9 @@
     "url": "$S3_CONDOR_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s3-condor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -75,6 +76,7 @@
     "timeMonth": 173,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-04-01": 41
     }
   },
@@ -95,7 +97,7 @@
     "timeMonth": 101,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-06-30": 56,
+      "2024-06-30": 917,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -275,7 +277,7 @@
     "timeMonth": 84,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-06-30": 57,
+      "2024-06-30": 917,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
