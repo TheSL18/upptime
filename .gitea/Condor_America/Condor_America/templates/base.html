@@ -1,0 +1,33 @@
+<!-- base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tu Sitio Web</title>
+</head>
+<body>
+    <div class="header">
+        <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
+            <a href="/">Main</a>
+        </div>
+
+        <div class="header-nav-item header-nav-item--collection header-nav-item--products">
+            <a href="/products_services/">Products & Services</a>
+        </div>
+
+        <div class="header-nav-item header-nav-item--collection header-nav-item--about">
+            <a href="/about_us/">About Us</a>
+        </div>
+
+        <div class="header-nav-item header-nav-item--collection header-nav-item--global">
+            <a href="/global-lists/">Global Lists</a>
+        </div>
+    </div>
+
+    <div class="content">
+        {% block content %}
+        <!-- Este bloque se reemplazará en cada página que extienda base.html -->
+        {% endblock %}
+    </div>
+</body>
+</html>
