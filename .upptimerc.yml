@@ -25,7 +25,7 @@ sites:
   - name: CBS WEB
     url: $CBS_WEB
   - name: CBS AMERICA
-    url: $CBS_AMERICA_WEB
+    url: $CB_AMERICA_WEB
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
