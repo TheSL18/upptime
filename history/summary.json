@@ -663,18 +663,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-america",
     "status": "up",
-    "uptime": "4.42%",
-    "uptimeDay": "4.42%",
-    "uptimeWeek": "4.42%",
-    "uptimeMonth": "4.42%",
-    "uptimeYear": "4.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 339,
     "timeDay": 339,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {
-      "2024-09-07": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
