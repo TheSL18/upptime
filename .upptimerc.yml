@@ -12,10 +12,6 @@ sites:
     url: $API_S3_CONDOR
   - name: S3 Condor
     url: $S3_CONDOR_WEB
-  - name: API S3 Draggane
-    url: $API_S3_DRAGGANE
-  - name: S3 Draggane
-    url: $S3_DRAGGANE_WEB
   - name: Servicios Globalists
     url: $GLOBALISTS_WEB
   - name: CBSLN
