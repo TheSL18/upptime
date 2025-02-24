@@ -1,7 +1,7 @@
 url: $API_LOGIN_GLOBALISTS
-status: down
-code: 502
-responseTime: 113
-lastUpdated: 2025-02-24T03:14:13.208Z
+status: up
+code: 200
+responseTime: 270
+lastUpdated: 2025-02-24T04:15:05.639Z
 startTime: 2024-01-22T21:32:17.946Z
 generator: Upptime <https://github.com/upptime/upptime>
