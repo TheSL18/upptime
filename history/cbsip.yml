@@ -1,7 +1,7 @@
 url: $CBSIP
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2025-06-02T23:08:24.886Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-06-03T08:45:25.659Z
 startTime: 2024-01-01T00:52:39.835Z
 generator: Upptime <https://github.com/upptime/upptime>
