@@ -201,9 +201,9 @@
     "url": "$CB_AMERICA_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-america",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -212,6 +212,8 @@
     "timeWeek": 384,
     "timeMonth": 419,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   }
 ]
