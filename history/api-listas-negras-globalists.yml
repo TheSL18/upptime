@@ -1,7 +1,7 @@
 url: $API_LISTAS_NEGRAS_GLOBALISTS
-status: down
-code: 502
-responseTime: 137
-lastUpdated: 2025-06-20T03:54:50.103Z
+status: up
+code: 200
+responseTime: 237
+lastUpdated: 2025-06-20T06:50:30.653Z
 startTime: 2024-01-22T21:59:06.851Z
 generator: Upptime <https://github.com/upptime/upptime>
