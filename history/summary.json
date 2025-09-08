@@ -186,19 +186,19 @@
     "url": "$CBS_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 504,
-    "timeDay": 5893,
-    "timeWeek": 3476,
-    "timeMonth": 1482,
-    "timeYear": 505,
+    "time": 523,
+    "timeDay": 6121,
+    "timeWeek": 3779,
+    "timeMonth": 1646,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-09-08": 88
+      "2025-09-08": 110
     }
   },
   {
@@ -209,16 +209,16 @@
     "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "83.08%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "99.53%",
     "time": 354,
     "timeDay": 0,
     "timeWeek": 2116,
     "timeMonth": 840,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-09-08": 1175,
+      "2025-09-08": 1198,
       "2025-09-07": 508,
       "2025-06-09": 739
     }
