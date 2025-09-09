@@ -188,9 +188,9 @@
     "slug": "cbs-web",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 555,
     "timeDay": 5078,
@@ -198,7 +198,7 @@
     "timeMonth": 1934,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2025-09-09": 0,
+      "2025-09-09": 10,
       "2025-09-08": 110
     }
   },
@@ -210,8 +210,8 @@
     "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "95.42%",
+    "uptimeWeek": "80.02%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "99.48%",
     "time": 354,
     "timeDay": 0,
@@ -219,7 +219,7 @@
     "timeMonth": 854,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-09-09": 57,
+      "2025-09-09": 67,
       "2025-09-08": 1440,
       "2025-09-07": 508,
       "2025-06-09": 739
