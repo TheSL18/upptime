@@ -1,7 +1,7 @@
 url: $CBS_WEB
-status: up
-code: 200
-responseTime: 3455
-lastUpdated: 2025-09-16T17:00:45.757Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-09-16T23:06:15.981Z
 startTime: 2024-09-07T13:31:07.488Z
 generator: Upptime <https://github.com/upptime/upptime>
