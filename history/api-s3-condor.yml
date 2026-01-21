@@ -1,7 +1,7 @@
 url: $API_S3_CONDOR
 status: up
 code: 200
-responseTime: 275
-lastUpdated: 2026-01-20T23:10:08.976Z
+responseTime: 81
+lastUpdated: 2026-01-21T23:13:35.506Z
 startTime: 2024-01-22T21:32:20.024Z
 generator: Upptime <https://github.com/upptime/upptime>
