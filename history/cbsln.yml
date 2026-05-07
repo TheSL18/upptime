@@ -1,7 +1,7 @@
 url: $CBSLN
-status: down
-code: 502
-responseTime: 231
-lastUpdated: 2026-05-06T23:38:19.397Z
+status: up
+code: 200
+responseTime: 189
+lastUpdated: 2026-05-07T04:50:28.694Z
 startTime: 2024-01-01T00:52:38.654Z
 generator: Upptime <https://github.com/upptime/upptime>
