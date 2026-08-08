@@ -235,17 +235,17 @@
     "url": "$CB_AMERICA_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-america",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.91%",
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "97.90%",
     "time": 829,
-    "timeDay": 86,
-    "timeWeek": 224,
+    "timeDay": 142,
+    "timeWeek": 221,
     "timeMonth": 210,
-    "timeYear": 987,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-09-07": 508,
       "2025-09-10": 1185,
@@ -266,7 +266,7 @@
       "2025-12-30": 1233,
       "2025-12-29": 194,
       "2026-02-24": 33,
-      "2026-08-08": 0
+      "2026-08-08": 37
     }
   }
 ]
