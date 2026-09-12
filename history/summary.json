@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 217,
-    "timeDay": 0,
-    "timeWeek": 208,
-    "timeMonth": 173,
+    "timeDay": 198,
+    "timeWeek": 207,
+    "timeMonth": 174,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2025-10-15": 173,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 222,
-    "timeDay": 0,
-    "timeWeek": 243,
-    "timeMonth": 189,
+    "timeDay": 195,
+    "timeWeek": 236,
+    "timeMonth": 190,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-10-15": 173,
@@ -67,8 +67,8 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.77%",
     "time": 202,
-    "timeDay": 0,
-    "timeWeek": 203,
+    "timeDay": 180,
+    "timeWeek": 199,
     "timeMonth": 155,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -92,9 +92,9 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.77%",
     "time": 192,
-    "timeDay": 0,
-    "timeWeek": 170,
-    "timeMonth": 175,
+    "timeDay": 69,
+    "timeWeek": 156,
+    "timeMonth": 171,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-10-15": 172,
@@ -117,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 209,
-    "timeDay": 0,
-    "timeWeek": 197,
-    "timeMonth": 153,
-    "timeYear": 211,
+    "timeDay": 105,
+    "timeWeek": 183,
+    "timeMonth": 151,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-10-15": 171,
       "2025-11-14": 156,
@@ -139,11 +139,11 @@
     "slug": "cbsln",
     "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "98.75%",
-    "time": 349,
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.72%",
+    "time": 348,
     "timeDay": 0,
     "timeWeek": 293,
     "timeMonth": 342,
@@ -160,7 +160,7 @@
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1032,
-      "2026-09-12": 15
+      "2026-09-12": 126
     }
   },
   {
@@ -169,11 +169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbsip",
     "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.56%",
+    "uptime": "98.48%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.54%",
     "time": 219,
     "timeDay": 0,
     "timeWeek": 159,
@@ -184,7 +184,7 @@
       "2025-10-01": 335,
       "2025-11-12": 741,
       "2026-02-10": 149,
-      "2026-09-12": 10
+      "2026-09-12": 121
     }
   },
   {
@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-web",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.08%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "98.39%",
     "time": 729,
     "timeDay": 0,
     "timeWeek": 186,
@@ -226,7 +226,7 @@
       "2026-09-02": 81,
       "2026-09-01": 1440,
       "2026-08-31": 116,
-      "2026-09-12": 5
+      "2026-09-12": 117
     }
   },
   {
@@ -235,12 +235,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-america",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.77%",
-    "time": 817,
+    "uptime": "98.88%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "98.75%",
+    "time": 818,
     "timeDay": 0,
     "timeWeek": 161,
     "timeMonth": 202,
@@ -261,7 +261,7 @@
       "2025-12-29": 194,
       "2026-02-24": 33,
       "2026-08-08": 37,
-      "2026-09-12": 0
+      "2026-09-12": 112
     }
   }
 ]
