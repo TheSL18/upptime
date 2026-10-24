@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-listas-negras-globalists",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.93%",
+    "uptime": "99.35%",
+    "uptimeDay": "83.00%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "98.88%",
     "time": 206,
     "timeDay": 89,
     "timeWeek": 126,
@@ -24,7 +24,7 @@
       "2026-05-04": 892,
       "2026-05-25": 293,
       "2026-05-24": 464,
-      "2026-10-24": 1
+      "2026-10-24": 245
     }
   },
   {
@@ -32,16 +32,16 @@
     "url": "$API_LOGIN_GLOBALISTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-login-globalists",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.04%",
     "time": 219,
-    "timeDay": 102,
-    "timeWeek": 114,
-    "timeMonth": 182,
+    "timeDay": 160,
+    "timeWeek": 127,
+    "timeMonth": 183,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-11-14": 179,
@@ -52,7 +52,7 @@
       "2026-03-19": 59,
       "2026-05-25": 293,
       "2026-05-24": 464,
-      "2026-10-24": 0
+      "2026-10-24": 244
     }
   },
   {
@@ -108,15 +108,15 @@
     "url": "$GLOBALISTS_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "servicios-globalists",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.06%",
     "time": 206,
-    "timeDay": 76,
-    "timeWeek": 107,
+    "timeDay": 117,
+    "timeWeek": 113,
     "timeMonth": 163,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
       "2026-02-22": 1274,
       "2026-05-25": 293,
       "2026-05-24": 464,
-      "2026-10-24": 0
+      "2026-10-24": 244
     }
   },
   {
