@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-listas-negras-globalists",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.26%",
@@ -192,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-web",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -222,16 +222,16 @@
     "url": "$CB_AMERICA_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cbs-america",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.04%",
-    "time": 851,
-    "timeDay": 0,
-    "timeWeek": 219,
-    "timeMonth": 253,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "16.12%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "98.86%",
+    "time": 849,
+    "timeDay": 106,
+    "timeWeek": 203,
+    "timeMonth": 248,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2025-12-03": 1149,
@@ -242,7 +242,7 @@
       "2026-08-08": 37,
       "2026-09-13": 19,
       "2026-09-12": 1388,
-      "2026-11-03": 228
+      "2026-11-03": 1208
     }
   }
 ]
